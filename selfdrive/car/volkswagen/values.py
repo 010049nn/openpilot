@@ -599,6 +599,7 @@ FW_VERSIONS = {
       b'\xf1\x8704L906026GA\xf1\x892013',
       b'\xf1\x8704L906026KD\xf1\x894798',
       b'\xf1\x873G0906264  \xf1\x890004',
+      b'\xf1\x8704E906027CE\xf1\x892889',
     ],
     (Ecu.transmission, 0x7e1, None): [
       b'\xf1\x870CW300043H \xf1\x891601',
